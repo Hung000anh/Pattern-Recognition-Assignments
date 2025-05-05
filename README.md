@@ -1,2 +1,2 @@
 # Pattern-Recognition-Assignments
-Assignments and exercises from the Pattern Recognition course taught by Dr. Le Dinh Long at Hanoi University of Science and Technology (HUST). Includes theoretical and practical implementations.
+Pattern Recognition assignments at Industrial University of Ho Chi Minh City (IUH), guided by Dr. Le Dinh Long. Includes theoretical questions, practical exercises, and algorithm implementations.
